@@ -1,4 +1,3 @@
-// components/hero/Hero.tsx
 import EmberCanvas from "./EmberCanvas";
 import HeroContent from "./HeroContent";
 import ScrollCue from "./ScrollCue";
