@@ -92,7 +92,7 @@ export default function EmberCanvas() {
 
     const sprites = SPRITE_COLORS.map(makeSprite);
 
-    let particles: Particle[] = [];
+    const particles: Particle[] = [];
     let width = 0;
     let height = 0;
     let raf = 0;
